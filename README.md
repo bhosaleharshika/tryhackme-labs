@@ -1,2 +1,2 @@
 # tryhackme-labs
-A collection of TryHackMe lab reports and hands-on cybersecurity learning activities.
+This repository contains my TryHackMe lab reports and practical cybersecurity learning activities. The reports cover different areas such as networking, DNS, Windows, Linux, web security, cybersecurity fundamentals, and security tools. Each report documents the concepts learned, practical tasks completed, commands and tools used, answers to lab questions, and important observations from the exercises. This repository is used to maintain a record of my hands-on cybersecurity learning and practical experience. New TryHackMe rooms and reports will be added as I continue completing more labs.
